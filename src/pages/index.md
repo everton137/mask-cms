@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Reutilização responsável das máscaras FFP2
-image: /img/flow_visualization_of_an_n95_respirator_with_and_without_an_exhalation_valve_using_schlieren_imaging_and_light_scattering_-mannequin-.jpg
+image: /img/maks.jpg
 heading: Reutilização responsável das máscaras FFP2
 subheading: Possibilidades e limites da reutilização para uso privado
 mainpitch:
