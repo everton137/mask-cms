@@ -1,21 +1,24 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Reutilização responsável das máscaras FFP2
+image: /img/flow_visualization_of_an_n95_respirator_with_and_without_an_exhalation_valve_using_schlieren_imaging_and_light_scattering_-mannequin-.jpg
+heading: Reutilização responsável das máscaras FFP2
+subheading: Possibilidades e limites da reutilização para uso privado
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Por que reutilizar as máscaras FFP2 para uso privado?
+  description: As máscaras FFP2 são utilizadas no setor de saúde em áreas com
+    risco aumentado de infecção. Projetado como um produto de uso único, as
+    máscaras FFP2 devem ser descartadas após o uso para evitar mais riscos de
+    infecção. Quando máscaras FFP2 são utilizadas para uso privado (por exemplo,
+    compras), pode-se esperar uma carga menor de agentes patogênicos das
+    máscaras FFP2. As máscaras FFP2 oferecem melhor proteção do que as máscaras
+    médicas faciais (máscaras cirúrgicas) quando usadas corretamente. No
+    entanto, sua disponibilidade é limitada. Portanto, a reutilização das
+    máscaras FFP2 para uso privado pode ser uma ferramenta útil.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
