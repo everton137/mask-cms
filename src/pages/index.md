@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Reutilização responsável das máscaras FFP2
 subheading: Possibilidades e limites da reutilização para uso privado
 mainpitch:
-  title: Por que reutilizar as máscaras FFP2 para uso privado?
+  title: "Por que reutilizar as máscaras FFP2 para uso privado? "
   description: As máscaras FFP2 são utilizadas no setor de saúde em áreas com
     risco aumentado de infecção. Projetado como um produto de uso único, as
     máscaras FFP2 devem ser descartadas após o uso para evitar mais riscos de
