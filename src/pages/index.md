@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Reutilização responsável das máscaras FFP2
-image: /img/maks.jpg
+image: /img/home-jumbotron.jpg
 heading: Reutilização responsável das máscaras FFP2
 subheading: Possibilidades e limites da reutilização para uso privado
 mainpitch:
